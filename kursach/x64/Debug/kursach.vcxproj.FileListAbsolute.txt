@@ -1,0 +1,6 @@
+C:\Users\Иван\source\repos\kursach\kursach\x64\Debug\kursach.vcxproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\kursach\kursach\x64\Debug\kursach.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\source\repos\kursach\kursach\x64\Debug\kursach.MyForm.resources
+C:\Users\Иван\source\repos\kursach\kursach\x64\Debug\kursach.vcxproj.GenerateResource.cache
+C:\Users\Иван\source\repos\kursach\kursach\x64\Debug\kursach.Author.resources
+C:\Users\Иван\source\repos\kursach\kursach\x64\Debug\kursach.ProgrammInfo.resources

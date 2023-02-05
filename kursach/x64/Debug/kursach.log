@@ -1,0 +1,7 @@
+﻿  Author.cpp
+  MyForm.cpp
+C:\Users\Иван\source\repos\kursach\kursach\MyForm.h(487,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Иван\source\repos\kursach\kursach\MyForm.h(852,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Author.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  kursach.vcxproj -> C:\Users\Иван\source\repos\kursach\x64\Debug\kursach.exe
